@@ -1,4 +1,7 @@
 repositories {
+ google()
+    mavenCentral()
+    gradlePluginPortal() 
   maven{
      url 'https://sdk.uxcam.com/android/'
   }
